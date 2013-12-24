@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<pmd version="1.3.2" timestamp="2013-12-22T19:34:14+00:00">
+  <file name="C:\Users\Ahouzi\Desktop\php-sonar-runner\src\Bar\Math4.php">
+    <violation beginline="86" endline="145" rule="CyclomaticComplexity" ruleset="Code Size Rules" package="Example" externalInfoUrl="http://phpmd.org/rules/codesize.html#cyclomaticcomplexity" class="PhpUnderControl_Example_Math" method="div" priority="2">
+      The method div() has a Cyclomatic Complexity of 11. The configured cyclomatic complexity threshold is 10.
+    </violation>
+    <violation beginline="86" endline="145" rule="NPathComplexity" ruleset="Code Size Rules" package="Example" externalInfoUrl="http://phpmd.org/rules/codesize.html#npathcomplexity" class="PhpUnderControl_Example_Math" method="div" priority="2">
+      The method div() has an NPath complexity of 3600. The configured NPath complexity threshold is 200.
+    </violation>
+    <violation beginline="150" endline="209" rule="CyclomaticComplexity" ruleset="Code Size Rules" package="Example" externalInfoUrl="http://phpmd.org/rules/codesize.html#cyclomaticcomplexity" class="PhpUnderControl_Example_Math" method="complex" priority="2">
+      The method complex() has a Cyclomatic Complexity of 11. The configured cyclomatic complexity threshold is 10.
+    </violation>
+    <violation beginline="150" endline="209" rule="NPathComplexity" ruleset="Code Size Rules" package="Example" externalInfoUrl="http://phpmd.org/rules/codesize.html#npathcomplexity" class="PhpUnderControl_Example_Math" method="complex" priority="2">
+      The method complex() has an NPath complexity of 3600. The configured NPath complexity threshold is 200.
+    </violation>
+  </file>
+  <file name="C:\Users\Ahouzi\Desktop\php-sonar-runner\src\Foo\Math5.php">
+    <violation beginline="86" endline="145" rule="CyclomaticComplexity" ruleset="Code Size Rules" package="Example" externalInfoUrl="http://phpmd.org/rules/codesize.html#cyclomaticcomplexity" class="PhpUnderControl_Example2_Math" method="div" priority="2">
+      The method div() has a Cyclomatic Complexity of 11. The configured cyclomatic complexity threshold is 10.
+    </violation>
+    <violation beginline="86" endline="145" rule="NPathComplexity" ruleset="Code Size Rules" package="Example" externalInfoUrl="http://phpmd.org/rules/codesize.html#npathcomplexity" class="PhpUnderControl_Example2_Math" method="div" priority="2">
+      The method div() has an NPath complexity of 3600. The configured NPath complexity threshold is 200.
+    </violation>
+    <violation beginline="150" endline="209" rule="CyclomaticComplexity" ruleset="Code Size Rules" package="Example" externalInfoUrl="http://phpmd.org/rules/codesize.html#cyclomaticcomplexity" class="PhpUnderControl_Example2_Math" method="complex" priority="2">
+      The method complex() has a Cyclomatic Complexity of 11. The configured cyclomatic complexity threshold is 10.
+    </violation>
+    <violation beginline="150" endline="209" rule="NPathComplexity" ruleset="Code Size Rules" package="Example" externalInfoUrl="http://phpmd.org/rules/codesize.html#npathcomplexity" class="PhpUnderControl_Example2_Math" method="complex" priority="2">
+      The method complex() has an NPath complexity of 3600. The configured NPath complexity threshold is 200.
+    </violation>
+  </file>
+  <file name="C:\Users\Ahouzi\Desktop\php-sonar-runner\src\Mail.php">
+    <violation beginline="52" endline="1261" rule="ExcessiveClassLength" ruleset="Code Size Rules" package="Zend_Mail" externalInfoUrl="http://phpmd.org/rules/codesize.html#excessiveclasslength" class="Zend_Mail" priority="3">
+      The class Zend_Mail has 1210 lines of code. Current threshold is 1000. Avoid really long classes.
+    </violation>
+    <violation beginline="52" endline="1261" rule="ExcessivePublicCount" ruleset="Code Size Rules" package="Zend_Mail" externalInfoUrl="http://phpmd.org/rules/codesize.html#excessivepubliccount" class="Zend_Mail" priority="3">
+      The class Zend_Mail has 56 public methods and attributes. Consider to reduce the number of public items under 45.
+    </violation>
+    <violation beginline="52" endline="1261" rule="TooManyFields" ruleset="Code Size Rules" package="Zend_Mail" externalInfoUrl="http://phpmd.org/rules/codesize.html#toomanyfields" class="Zend_Mail" priority="3">
+      The class Zend_Mail has 19 fields. Consider to redesign Zend_Mail to keep the number of fields under 15.
+    </violation>
+    <violation beginline="52" endline="1261" rule="TooManyMethods" ruleset="Code Size Rules" package="Zend_Mail" externalInfoUrl="http://phpmd.org/rules/codesize.html#toomanymethods" class="Zend_Mail" priority="3">
+      The class Zend_Mail has 27 methods. Consider refactoring Zend_Mail to keep number of methods under 10.
+    </violation>
+    <violation beginline="52" endline="1261" rule="ExcessiveClassComplexity" ruleset="Code Size Rules" package="Zend_Mail" externalInfoUrl="http://phpmd.org/rules/codesize.html#excessiveclasscomplexity" class="Zend_Mail" priority="3">
+      The class Zend_Mail has an overall complexity of 120 which is very high. The configured complexity threshold is 50.
+    </violation>
+  </file>
+  <file name="C:\Users\Ahouzi\Desktop\php-sonar-runner\src\Math.php">
+    <violation beginline="90" endline="149" rule="CyclomaticComplexity" ruleset="Code Size Rules" package="Example" externalInfoUrl="http://phpmd.org/rules/codesize.html#cyclomaticcomplexity" class="PhpUnderControl_Example_Math" method="div" priority="2">
+      The method div() has a Cyclomatic Complexity of 11. The configured cyclomatic complexity threshold is 10.
+    </violation>
+    <violation beginline="90" endline="149" rule="NPathComplexity" ruleset="Code Size Rules" package="Example" externalInfoUrl="http://phpmd.org/rules/codesize.html#npathcomplexity" class="PhpUnderControl_Example_Math" method="div" priority="2">
+      The method div() has an NPath complexity of 3600. The configured NPath complexity threshold is 200.
+    </violation>
+    <violation beginline="154" endline="213" rule="CyclomaticComplexity" ruleset="Code Size Rules" package="Example" externalInfoUrl="http://phpmd.org/rules/codesize.html#cyclomaticcomplexity" class="PhpUnderControl_Example_Math" method="complex" priority="2">
+      The method complex() has a Cyclomatic Complexity of 11. The configured cyclomatic complexity threshold is 10.
+    </violation>
+    <violation beginline="154" endline="213" rule="NPathComplexity" ruleset="Code Size Rules" package="Example" externalInfoUrl="http://phpmd.org/rules/codesize.html#npathcomplexity" class="PhpUnderControl_Example_Math" method="complex" priority="2">
+      The method complex() has an NPath complexity of 3600. The configured NPath complexity threshold is 200.
+    </violation>
+  </file>
+  <file name="C:\Users\Ahouzi\Desktop\php-sonar-runner\src\Math2.php">
+    <violation beginline="86" endline="145" rule="CyclomaticComplexity" ruleset="Code Size Rules" package="Example" externalInfoUrl="http://phpmd.org/rules/codesize.html#cyclomaticcomplexity" class="PhpUnderControl_Example2_Math" method="div" priority="2">
+      The method div() has a Cyclomatic Complexity of 11. The configured cyclomatic complexity threshold is 10.
+    </violation>
+    <violation beginline="86" endline="145" rule="NPathComplexity" ruleset="Code Size Rules" package="Example" externalInfoUrl="http://phpmd.org/rules/codesize.html#npathcomplexity" class="PhpUnderControl_Example2_Math" method="div" priority="2">
+      The method div() has an NPath complexity of 3600. The configured NPath complexity threshold is 200.
+    </violation>
+    <violation beginline="150" endline="209" rule="CyclomaticComplexity" ruleset="Code Size Rules" package="Example" externalInfoUrl="http://phpmd.org/rules/codesize.html#cyclomaticcomplexity" class="PhpUnderControl_Example2_Math" method="complex" priority="2">
+      The method complex() has a Cyclomatic Complexity of 11. The configured cyclomatic complexity threshold is 10.
+    </violation>
+    <violation beginline="150" endline="209" rule="NPathComplexity" ruleset="Code Size Rules" package="Example" externalInfoUrl="http://phpmd.org/rules/codesize.html#npathcomplexity" class="PhpUnderControl_Example2_Math" method="complex" priority="2">
+      The method complex() has an NPath complexity of 3600. The configured NPath complexity threshold is 200.
+    </violation>
+  </file>
+  <file name="C:\Users\Ahouzi\Desktop\php-sonar-runner\src\Math3.php">
+    <violation beginline="86" endline="145" rule="CyclomaticComplexity" ruleset="Code Size Rules" package="Example" externalInfoUrl="http://phpmd.org/rules/codesize.html#cyclomaticcomplexity" class="PhpUnderControl_Example_Math" method="div" priority="2">
+      The method div() has a Cyclomatic Complexity of 11. The configured cyclomatic complexity threshold is 10.
+    </violation>
+    <violation beginline="86" endline="145" rule="NPathComplexity" ruleset="Code Size Rules" package="Example" externalInfoUrl="http://phpmd.org/rules/codesize.html#npathcomplexity" class="PhpUnderControl_Example_Math" method="div" priority="2">
+      The method div() has an NPath complexity of 3600. The configured NPath complexity threshold is 200.
+    </violation>
+    <violation beginline="150" endline="209" rule="CyclomaticComplexity" ruleset="Code Size Rules" package="Example" externalInfoUrl="http://phpmd.org/rules/codesize.html#cyclomaticcomplexity" class="PhpUnderControl_Example_Math" method="complex" priority="2">
+      The method complex() has a Cyclomatic Complexity of 11. The configured cyclomatic complexity threshold is 10.
+    </violation>
+    <violation beginline="150" endline="209" rule="NPathComplexity" ruleset="Code Size Rules" package="Example" externalInfoUrl="http://phpmd.org/rules/codesize.html#npathcomplexity" class="PhpUnderControl_Example_Math" method="complex" priority="2">
+      The method complex() has an NPath complexity of 3600. The configured NPath complexity threshold is 200.
+    </violation>
+  </file>
+</pmd>
